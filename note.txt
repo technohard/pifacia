@@ -1,0 +1,4 @@
+fix bug personal access token auth sanctum
+https://dev.to/adnanbabakan/implement-uuid-primary-key-in-laravel-and-its-benefits-55o3
+
+
